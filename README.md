@@ -3,7 +3,7 @@
 - Python 3.x
 - Pandas
 - Scipy, Numpy
-- Sci-kit Learn
+- Scikit-Learn
 - Matplotlib
 
 ## *2. Run:*
